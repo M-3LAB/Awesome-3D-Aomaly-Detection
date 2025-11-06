@@ -193,8 +193,6 @@ We warmly welcome any new work that we may have overlooked. Please email [**Hanz
 3. **[2023]** Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset [[Arxiv]](https://arxiv.org/abs/2311.04095) [[data]](https://github.com/Andy-cs008/PD-REAL)
 4. **[2025]** 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[Arxiv]](https://arxiv.org/abs/2507.07838)
 5. **[2025]** SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark [[ICCV2025]](https://arxiv.org/abs/2506.21549) [[code]](https://arxiv.org/abs/2506.21549)
-6. **[2026]** 3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing [[Arxiv2025]](https://arxiv.org/abs/2507.07838)
-
 ### 4.2 PA3AD
 1. **[2023]** PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[NeurIPS2023]](https://papers.nips.cc/paper/2023/file/8bc5aef775aacc1650a9790f1428bcea-Paper-Datasets_and_Benchmarks.pdf#:~:text=We%20introduced%20Pose-agnostic%20Anomaly%20Detection%20%28PAD%29%2C%20a%20challenging,forward%20to%20pratical%20anomaly%20detection%20and%20localization%20tasks.) [[code]](https://github.com/EricLee0224/PAD)
 2. **[2024]** Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection [[code]](https://realiad4ad.github.io/Real-IAD/) [[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)
