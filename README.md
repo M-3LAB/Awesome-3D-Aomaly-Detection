@@ -137,6 +137,7 @@ We warmly welcome any new work that we may have overlooked. Please email [**Hanz
 4. **[2025]** Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2502.11307)
 5. **[2025]** 3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering [[Arxiv]](https://arxiv.org/pdf/2507.13110)
 6. **[2025]** 3D-PNAS: 3D Industrial Surface Anomaly Synthesis with Perlin Noise [[Arxiv]](https://arxiv.org/abs/2504.12856)
+7. **[2025]** Deep Subspace Learning for Surface Anomaly Classification Based on 3D Point Cloud Data [[Arxiv]](https://arxiv.org/pdf/2502.11669)
 
 ### 2.2 Feature-embedding Method
 
