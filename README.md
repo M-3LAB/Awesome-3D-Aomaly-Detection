@@ -8,6 +8,9 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 
 🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and pull requests.
 
+## Conference Summary
+- [A. AAAI2026](#a-aaai2026)
+
 ## Table of Contents
 - [1. Multimodal 3D Anomaly Detection](#1-multimodal-3d-anomaly-detection)
   - [1.1 Depth(2.5D)+RGB](#11-depth25drgb)
@@ -44,6 +47,9 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
   - [4.3 PC3AD (Real3D-AD...)](#43-pc3ad-real3d-ad)
 
 ---
+
+## A. AAAI2026
+Will public~
 
 ## 1. Multimodal 3D Anomaly Detection
 
