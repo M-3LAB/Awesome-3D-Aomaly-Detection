@@ -95,6 +95,7 @@ Will public~
 3. **[2024]** M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising [[TPAMI]](https://arxiv.org/abs/2406.02263)
 4. **[2023]** Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML 2023]](https://openreview.net/forum?id=IkSGn9fcPz)
 5. **[2024]** Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2401.03145)
+6. **[2025]** VLDFNet: Views-Graph and Latent Feature Disentangled Fusion Network for Multimodal Industrial Anomaly Detection [[TIM 2025]](https://ieeexplore.ieee.org/document/11004494)
 
 #### 1.2.2 Feature-reconstruction Method
 
