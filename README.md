@@ -51,6 +51,7 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 ## A. AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 2. Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
+3. CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[AAAI 2026]](https://arxiv.org/pdf/2511.12909) [[code]](https://github.com/zyh16143998882/CASL)
 ## 1. Multimodal 3D Anomaly Detection
 
 ### 1.1 Depth(2.5D)+RGB
@@ -147,6 +148,7 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 5. **[2025]** 3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering [[Arxiv]](https://arxiv.org/pdf/2507.13110)
 6. **[2025]** 3D-PNAS: 3D Industrial Surface Anomaly Synthesis with Perlin Noise [[Arxiv]](https://arxiv.org/abs/2504.12856)
 7. **[2025]** Deep Subspace Learning for Surface Anomaly Classification Based on 3D Point Cloud Data [[Arxiv]](https://arxiv.org/pdf/2502.11669)
+8. **[2025]** CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[AAAI 2026]](https://arxiv.org/pdf/2511.12909) [[code]](https://github.com/zyh16143998882/CASL
 
 ### 2.2 Feature-embedding Method
 
